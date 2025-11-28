@@ -37,6 +37,11 @@ Through these projects, I gained hands-on experience with:
 - Trained custom classifier on top of extracted features
 - Combined pre-trained feature extractors with task-specific classification layers
 
+### 5. Audio Classification (`CNN - Audio Classificaton.ipynb`)
+- Converted audio files (WAV) into visual spectrograms using `librosa`
+- Transformed an audio classification problem into an image classification task
+- Trained a CNN on the generated spectrogram images to classify different sounds (background, chainsaw, engine, storm)
+
 ## Additional Projects
 - **Titanic Survival Prediction**: Machine learning model for predicting passenger survival
 - **Sentiment Analysis**: Natural language processing model for text classification
