@@ -14,6 +14,7 @@ Through these projects, I gained hands-on experience with:
 - **Pre-trained CNNs**: Using models trained on ImageNet (1000 classes) for custom image prediction tasks
 - **Keras API**: Building sequential models, adding layers, compiling models, and fitting to data
 - **TensorFlow Ecology**: Working with image preprocessing utilities and application models in TensorFlow/Keras
+- **Computer Vision**: Using OpenCV for image processing and object detection (Viola-Jones)
 
 ## Projects
 
@@ -41,6 +42,11 @@ Through these projects, I gained hands-on experience with:
 - Converted audio files (WAV) into visual spectrograms using `librosa`
 - Transformed an audio classification problem into an image classification task
 - Trained a CNN on the generated spectrogram images to classify different sounds (background, chainsaw, engine, storm)
+
+### 6. Face Detection (`OpenCv Viola-Jonnes - Face Detection.ipynb`)
+- Implemented Viola-Jones algorithm for face detection using OpenCV
+- Utilized pre-trained Haar Cascade classifiers (`CascadeClassifier`)
+- Detected faces in images and visualized results with bounding boxes
 
 ## Additional Projects
 - **Titanic Survival Prediction**: Machine learning model for predicting passenger survival
